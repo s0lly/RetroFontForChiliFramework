@@ -2,6 +2,9 @@
 Adds Retro Font to the Chili Framework
 
 Just add the RetroContent.h file to your Chili Framework application and away you go.
+
+This file requires the later versions of the Chili Framework that include Vec2.h
+
 This currently allows you to write text to the screen using the DrawString function:
 - Capital Letters ONLY
 - Numbers (0 to 9)
