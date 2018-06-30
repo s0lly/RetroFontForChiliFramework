@@ -5,7 +5,10 @@ Just add the RetroContent.h file to your Chili Framework application and away yo
 This currently allows you to write text to the screen using the DrawString function:
 - Capital Letters ONLY
 - Numbers (0 to 9)
-- spaces
+- Spaces
+
+Valid string example: "WELCOME TO GAME123"
+
 Do not add any other type of text
 
 Call the function by adding "RetroContent::DrawString(...)" to your code.
@@ -13,3 +16,5 @@ Call the function by adding "RetroContent::DrawString(...)" to your code.
 Updates to follow:
 - Support for more text characters
 - Other functions to make your life easier
+
+Enjoy!
